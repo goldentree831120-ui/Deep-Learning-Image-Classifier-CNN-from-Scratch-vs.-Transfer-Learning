@@ -1,0 +1,19 @@
+# Downloaded dataset
+data/
+
+# Saved model weights (large binary files, don't commit)
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Kaggle
+kaggle.json
